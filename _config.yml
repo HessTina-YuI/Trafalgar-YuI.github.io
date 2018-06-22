@@ -5,15 +5,15 @@
 # Site
 title: YuI
 subtitle: 
-description:
-keywords:
+description: 这是一个相当不务正业的程序猿博客
+keywords: 
 author: YuI Trafalgar
 language: zh-CN
-timezone:
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://Trafalgar-YuI.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
