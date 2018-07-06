@@ -79,7 +79,8 @@ theme: material
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Trafalgar-YuI/Trafalgar-YuI.github.io.git
+  repo: root@39.108.14.171:/data/yui.git
+  ##git@github.com:Trafalgar-YuI/Trafalgar-YuI.github.io.git
   branch: master
 
 # search local
